@@ -1,4 +1,4 @@
 Manifest-Version: 1.0
-ATG-Required: DafEar.Admin DafEar.Weblogic
+ATG-Required: DafEar.Admin
 ATG-Config-Path: config/
 ATG-Class-Path: ./bin/
